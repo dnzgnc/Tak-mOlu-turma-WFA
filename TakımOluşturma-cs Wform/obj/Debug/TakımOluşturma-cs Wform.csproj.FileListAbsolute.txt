@@ -1,0 +1,9 @@
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\bin\Debug\TakımOluşturma-cs Wform.exe.config
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\bin\Debug\TakımOluşturma-cs Wform.exe
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\bin\Debug\TakımOluşturma-cs Wform.pdb
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\obj\Debug\TakımOluşturma-cs Wform.csprojResolveAssemblyReference.cache
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\obj\Debug\TakımOluşturma_cs_Wform.Form1.resources
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\obj\Debug\TakımOluşturma_cs_Wform.Properties.Resources.resources
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\obj\Debug\TakımOluşturma-cs Wform.csproj.GenerateResource.Cache
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\obj\Debug\TakımOluşturma-cs Wform.exe
+c:\users\deniz\documents\visual studio 2015\Projects\TakımOluşturma-cs Wform\TakımOluşturma-cs Wform\obj\Debug\TakımOluşturma-cs Wform.pdb
